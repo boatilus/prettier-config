@@ -1,8 +1,9 @@
 {
-  "name": "@boatilus/prettier-config",
+  "name": "@ovao-org/prettier-config",
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": "index.json",
+  "private": false,
   "repository": "git@github.com:boatilus/prettier-config.git",
   "author": "Ron Jones <ron@ovao.dev>",
   "license": "CC0 OR MIT"

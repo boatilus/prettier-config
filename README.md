@@ -1,4 +1,4 @@
-# `@boatilus/prettier-config`
+# `@ovao-org/prettier-config`
 
 > My personal [Prettier](https://prettier.io) config.
 
@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @boatilus/prettier-config
+$ yarn add --dev @ovao-org/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ yarn add --dev @boatilus/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@boatilus/prettier-config"
+  "prettier": "@ovao-org/prettier-config"
 }
 ```
